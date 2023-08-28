@@ -1,7 +1,7 @@
 # PascalFlowchart
 Утилита для построения графов из кода на языке Pascal разработанная на Unity
 
-Скачать последнюю версию можно здесь: https://github.com/dark1103/PascalFlowchart/releases
+Скачать последнюю версию можно здесь: https://github.com/iceshell11/PascalFlowchart/releases
 
 Пример:
 
